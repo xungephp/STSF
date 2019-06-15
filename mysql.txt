@@ -1,0 +1,7 @@
+查询语句:select * from table;
+
+添加语句:insert into table values();
+
+删除语句:delete from table where id=?;
+
+修改语句:update talbe 字段=值 where id=?;
